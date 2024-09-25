@@ -1,11 +1,12 @@
-animals =  "Lion","Elephant","Tiger","Zebra","Kangaroo","Panda", "Giraffe"
-print (animals)
-print("the 2nd index is",animals[1])
-print(animals)
+historical_figures = ["George Washington","Cleopatra","Mahatma Gandhi","Albert Einstein","Marie Curie","Winston Churchill","Martin Luther King Jr.","Rosa Parks","Leonardo da Vinci","Marie Antoinette"]
+print(historical_figures)
 
-animals[4]= "Gorilla"
-print(animals)
+print("the 8th index is",historical_figures[7])
+print(historical_figures)
 
-del animals[5]
+historical_figures[3] = "Nelson Mandela"
+print(historical_figures)
 
-print("the last index is",animals[-1])
+del historical_figures[6]
+
+print("the last index is",historical_figures[-1])
