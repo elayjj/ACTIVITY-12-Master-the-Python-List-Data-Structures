@@ -6,7 +6,7 @@ rivers = [
     "Yellow River",
     "Ganges River",
     "Danube River",
-    "Rio Grande",  
+    "Rio Grande",
     "Volga River",
     "Zambezi River"
 ]
