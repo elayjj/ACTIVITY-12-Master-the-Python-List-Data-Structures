@@ -1,0 +1,1 @@
+subjects = ["Computer Science", "English", "Science", "History", "Geography", "Physical Education", "Art", "Music", "Social Studies", "Economics", "Home Economics" ""]
